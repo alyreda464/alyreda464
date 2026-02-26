@@ -55,21 +55,16 @@
     <img width="12" />
   </div>
   
-###
-
-<h2 align="left">Connect with me</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alyredaabdalla/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<h2 align="left"></h2>
+
+###
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyreda464&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
 
 ###

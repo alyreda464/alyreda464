@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">AEC & BIM Software Developer</p>
+<p align="center">AEC Software Engineer</p>
 
 ###
 

@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-bice-one-51.vercel.app/api/top-langs/?username=alyreda464&layout=compact&theme=github_dark&langs_count=5&count_private=true&include_all_commits=true&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-bice-one-51.vercel.app/api/top-langs/?username=alyreda464&layout=compact&theme=github_dark&langs_count=20&count_private=true&include_all_commits=true&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>

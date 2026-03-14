@@ -1,4 +1,4 @@
-<h2 align="center">Aly Reda Abdalla Aly</h2>
+<h2 align="center">Aly Reda Abdalla</h2>
 
 <p align="center">AEC Software Engineer</p>
 

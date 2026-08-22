@@ -60,11 +60,6 @@
   <img src="https://github-readme-stats-bice-one-51.vercel.app/api/top-langs/?username=alyreda464&layout=compact&theme=github_dark&langs_count=20&count_private=true&include_all_commits=true&hide_border=true" alt="Top Languages" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alyreda464&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
-</div>
 
 ---
 
